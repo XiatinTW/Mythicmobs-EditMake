@@ -1,12 +1,10 @@
 # Mythicmobs-編輯器 (EditMake)
-<h6>方便製作Minecraft MythicMobs Plugin的怪物資料來使用。
-<h6>Convenient for making monster data of Minecraft MythicMobs Plugin to use.
+<h6>方便製作Minecraft MythicMobs Plugin的怪物資料來使用。(Convenient for making monster data of Minecraft MythicMobs Plugin to use.)
 
-進度 怪物製作100% 技能10% 物品0%
-<h6> Progress
+<h6> 進度(Progress)
 
-* MobsEdit 100%
-* Language Chinese 100%
+* 怪物製作(MobsEdit) 100%
+* 中文語言(Language Chinese) 100%
 
 :octocat:錯誤回報/建議意見 [填寫表單](https://forms.gle/Auwu9D8Ypyjbxxb5A)
 
