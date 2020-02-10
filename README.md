@@ -15,6 +15,6 @@
 <h6>3.勿擅自說明是你自己製作的(Do n’t say that you made it yourself)
 <h6>4.擅自拆檔並改寫/販賣者 (Forbid archives rewrite / Sell)
 <h6>有違反到有關智慧財產權的問題，請勿以身試法。(There is a violation of intellectual property rights, please do not try)
-<h6>Thnank!
+<h2>Thnank!
 
 ![Image 1](https://i.imgur.com/fF6QEPx.png)![Image 2](https://i.imgur.com/TBy3yc5.png)
