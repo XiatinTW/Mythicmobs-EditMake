@@ -10,7 +10,7 @@
 <h6>有違反到有關智慧財產權的問題，請勿以身試法。(There is a violation of intellectual property rights, please do not try)
 <h2>Thnank!
 
-  :octocat: [下載](https://drive.google.com/open?id=1qH2w7FvuEBT9oEMa8c12wUtJ8GkyYoyY)
+  :octocat: [下載(Download)](https://drive.google.com/open?id=1qH2w7FvuEBT9oEMa8c12wUtJ8GkyYoyY)
 
 # 新增的功能
 * 怪物設定(MobsEdit)
