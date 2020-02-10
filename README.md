@@ -6,7 +6,7 @@
 * 怪物製作(MobsEdit) 100%
 * 中文語言(Language Chinese) 100%
 
-:octocat:錯誤回報/建議意見 [填寫表單](https://forms.gle/Auwu9D8Ypyjbxxb5A)
+:octocat:錯誤回報(ErrorReporting)/建議意見(Suggestions) [填寫表單(Fill in the form)](https://forms.gle/Auwu9D8Ypyjbxxb5A)
 
 <h2>:rotating_light:使用本程式請遵守以下規定。
 <h2>Please use the following rules when using this program.
