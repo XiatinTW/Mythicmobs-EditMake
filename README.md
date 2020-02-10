@@ -17,6 +17,6 @@
 <h6>有違反到有關智慧財產權的問題，請勿以身試法。(There is a violation of intellectual property rights, please do not try)
 <h2>Thnank!
 
-[發行版](../master/MMEditMakeBeta.md)
+[發行版(Beta)](../master/MMEditMakeBeta.md)
 
 ![Image 1](https://i.imgur.com/fF6QEPx.png)![Image 2](https://i.imgur.com/TBy3yc5.png)
