@@ -4,7 +4,10 @@
 <h6> 進度(Progress)
 
 * 怪物製作(MobsEdit) 100%
+* 物品製作(ItemsEdit) 100%
 * 中文語言(Language Chinese) 100%
+* 英文語言(Language English) 100%
+* M
 
 :octocat:錯誤回報(ErrorReporting)/建議意見(Suggestions) [填寫表單(Fill in the form)](https://forms.gle/Auwu9D8Ypyjbxxb5A)
 
@@ -19,4 +22,4 @@
 
 [發行版(Beta)](../master/MMEditMakeBeta.md)
 
-![Image 1](https://i.imgur.com/fF6QEPx.png)![Image 2](https://i.imgur.com/TBy3yc5.png)
+![Image 1](https://i.imgur.com/hNHTjj7.png)
