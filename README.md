@@ -7,7 +7,7 @@
 * 物品製作(ItemsEdit) 100%
 * 中文語言(Language Chinese) 100%
 * 英文語言(Language English) 100%
-* M
+* MYTHICMOBS Vr.4.9
 
 :octocat:錯誤回報(ErrorReporting)/建議意見(Suggestions) [填寫表單(Fill in the form)](https://forms.gle/Auwu9D8Ypyjbxxb5A)
 
