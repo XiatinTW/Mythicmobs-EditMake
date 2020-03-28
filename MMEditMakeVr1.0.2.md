@@ -41,4 +41,4 @@
 - * 屬性設定(Attributes)
 - * 特殊設定(special)
 
-![GITHUB](https://i.imgur.com/hNHTjj7.png)
+![GITHUB](https://i.imgur.com/AYFq65w.png)
