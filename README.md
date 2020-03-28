@@ -22,4 +22,4 @@
 
 [Vr1.0.2](../master/MMEditMakeVr1.0.2.md)
 
-![Image 1](https://i.imgur.com/hNHTjj7.png)
+![Image 1](https://i.imgur.com/AYFq65w.png)
